@@ -1,14 +1,58 @@
 # 👩🏼‍💻 About Me:
-Information Engineering student at TUM Campus Heilbronn with strong foundations in databases, Python, and data-driven systems. <br>Built an end-to-end data intelligence platform (ChatSQL) that ingests database schemas, transforms natural-language questions into analytics-ready SQL, and delivers governed insights via APIs and a web interface. <br>Experienced in building data-driven applications, backend APIs, and interactive frontends.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=erjonadb&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=erjonadb&theme=shades-of-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=erjonadb&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I'm an Information Engineering student at the Technical University of Munich, interested in **human–AI collaboration, applied AI, and software engineering**.
 
----
-[![](https://visitcount.itsvg.in/api?id=erjonadb&icon=0&color=0)](https://visitcount.itsvg.in)
+I build full-stack applications that combine intelligent systems with practical, user-focused interfaces. My experience includes Python, TypeScript, LLM integration, backend APIs, databases, interactive visualization, and user evaluation.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Featured Projects
+
+### [ChatSQL](https://github.com/Erjonadb/chatsql)
+
+An AI-assisted SQL learning and generation platform that transforms natural-language questions into schema-aware SQL queries.
+
+- Integrated an LLM using LoRA fine-tuning
+- Built a FastAPI backend and React interface
+- Added query previews, streaming output, and learning-oriented explanations
+- Conducted user testing with participants of different SQL experience levels
+
+### [Memora](https://github.com/Erjonadb/memora) — Work in Progress
+
+A searchable personal archive for saved TikTok videos, enriched with metadata and transcripts.
+
+- Extracts and stores video metadata and available transcripts
+- Uses embeddings to improve content discovery
+- Built with Python, FastAPI, React, and SQLite
+- Designed to make large saved-video collections easier to search and organize
+
+### [VAST Challenge 2026 – Agent Behavior Analysis](https://github.com/dylannwj/dataVisProject)
+
+A collaborative visual-analytics project examining AI-agent activity during a simulated cybersecurity breach.
+
+My contribution focused on **View 3: Agent Behavior Comparison**, including baseline-versus-breach comparisons, channel-risk heatmaps, interactive filtering, and message-level investigation.
+
+## Technologies
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift&logoColor=white)
+
+### Frameworks and Tools
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+## Currently Exploring
+
+- Human–AI collaboration in software development
+- Usable and trustworthy LLM-based applications
+- Semantic search and information retrieval
+- Interactive data visualization
