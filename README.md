@@ -28,7 +28,10 @@ A searchable personal archive for saved TikTok videos, enriched with metadata an
 
 A collaborative visual-analytics project examining AI-agent activity during a simulated cybersecurity breach.
 
-My contribution focused on **View 3: Agent Behavior Comparison**, including baseline-versus-breach comparisons, channel-risk heatmaps, interactive filtering, and message-level investigation.
+- Developed an interactive D3.js visual-analytics dashboard for the VAST Challenge 2026 Mini-Challenge 1
+- Investigated how an information embargo was breached by analysing communication logs from seven autonomous AI agents
+- Combined a message timeline, candidate causal graph, behavior comparison charts, and channel-risk heatmaps
+- Added linked filtering and evidence panels to trace suspicious behavioral changes back to individual messages
 
 ## Technologies
 
